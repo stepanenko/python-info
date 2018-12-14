@@ -1,0 +1,16 @@
+{
+  "name": "scotch-node-crud",
+  "version": "1.0.0",
+  "description": "node and mongodb crud app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergio",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-ejs-layouts": "^2.5.0"
+  }
+}
