@@ -10,4 +10,6 @@ router.get('/', mainController.showHome);
 
 router.get('/events', eventsController.showEvents);
 
+router.get('/events/seed', eventsController.seedEvents);
+
 router.get('/events/:slug', eventsController.showSingle);
