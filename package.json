@@ -1,6 +1,6 @@
 {
   "name": "scotch-node-crud",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "node and mongodb crud app",
   "main": "server.js",
   "scripts": {
@@ -9,15 +9,15 @@
   "author": "Sergio",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.18.3",
+    "body-parser": "^1.19.0",
     "connect-flash": "^0.1.1",
-    "cookie-parser": "^1.4.3",
-    "dotenv": "^6.2.0",
-    "ejs": "^2.6.1",
-    "express": "^4.16.4",
+    "cookie-parser": "^1.4.5",
+    "dotenv": "^9.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
     "express-ejs-layouts": "^2.5.0",
-    "express-session": "^1.15.6",
-    "express-validator": "^5.3.0",
-    "mongoose": "^5.7.5"
+    "express-session": "^1.17.1",
+    "express-validator": "^6.11.0",
+    "mongoose": "^5.12.7"
   }
 }

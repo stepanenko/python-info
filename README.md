@@ -1,4 +1,7 @@
+
 ## Scotch.io: [Create a CRUD App with Node and MongoDB](https://coursehunters.net/course/delaem-crud-prilozhenie-s-node-i-mongodb)
+
+Updated all on 08.05.2021
 
 **Duration: 01:38:04**
 
