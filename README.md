@@ -5,6 +5,8 @@
 - Created in 1991, by a developer named Guido Van Rossum.  
 - Most popular Python web frameworks are: Django, Flask, Falcon, Pyramid, and Bottle
 
+Minimalistic Python Docs: https://pythonbasics.org/
+
 ---
 
 #### If you want to specify the data type, you can use the following constructor functions:
