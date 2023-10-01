@@ -1,5 +1,5 @@
 
-# Python Notes
+# Python
 
 - Open-source, interpreted and dynamic language
 - Created in 1991, by a developer named Guido Van Rossum.  
