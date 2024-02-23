@@ -9,6 +9,8 @@ Minimalistic Python Docs: https://pythonbasics.org/
 
 ---
 
+Download from: https://www.python.org/downloads/
+
 #### If you want to specify the data type, you can use the following constructor functions:
 ```py
 x = str("Hello World")
