@@ -11,7 +11,8 @@ Minimalistic Python Docs: https://pythonbasics.org/
 
 Download from: https://www.python.org/downloads/
 
-Use `python3 --version` to see if python 3 is installed and print its version
+Use `python3 --version` to see if python 3 is installed and print its version  
+On Windows it could be `python --version`
 
 To run a python file use `python3 -u filename.py` - don't forget the `.py` at the end
 
