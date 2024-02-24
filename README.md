@@ -11,6 +11,10 @@ Minimalistic Python Docs: https://pythonbasics.org/
 
 Download from: https://www.python.org/downloads/
 
+Use `python3 --version` to see if python 3 is installed and print its version
+
+To run a python file use `python3 -u filename.py` - don't forget the `.py` at the end
+
 #### If you want to specify the data type, you can use the following constructor functions:
 ```py
 x = str("Hello World")
