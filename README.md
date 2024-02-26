@@ -15,6 +15,15 @@ Use `python3 --version` to see if python 3 is installed and print its version (o
 
 To run a python file use `python3 filename.py` - don't forget the `.py` at the end (on Windows it could be `python filename.py`)
 
+### Examples
+
+```py
+# Simple loop example
+for i in range(1, 6):
+    print(i)
+```
+
+### Data types
 #### If you want to specify the data type, you can use the following constructor functions:
 ```py
 x = str("Hello World")
