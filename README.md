@@ -18,9 +18,14 @@ To run a python file use `python3 filename.py` - don't forget the `.py` at the e
 ### Examples
 
 ```py
-# Simple loop example
+# For loop 1
 for i in range(1, 6):
     print(i)
+
+# For loop 2
+fruits = ["apple", "banana", "cherry"]
+for fruit in fruits:
+    print(fruit)
 ```
 
 ### Data types
