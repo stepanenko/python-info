@@ -26,6 +26,17 @@ for i in range(1, 6):
 fruits = ["apple", "banana", "cherry"]
 for fruit in fruits:
     print(fruit)
+
+# Nested For loops
+for i in range(3):
+    for j in range(2):
+        print(f"({i}, {j})")
+
+# While loop
+count = 0
+while count < 5:
+    print(count)
+    count += 1
 ```
 
 ### Data types
