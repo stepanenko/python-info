@@ -37,10 +37,17 @@ count = 0
 while count < 5:
     print(count)
     count += 1
+
+# Example of a list comprehension
+numbers = [1, 2, 3, 4, 5]
+squared_numbers = [x ** 2 for x in numbers]
+print(squared_numbers)
+# iterates over an iterable and apply an expression to each element to generate a new list.
+
 ```
 
 ### Data types
-#### If you want to specify the data type, you can use the following constructor functions:
+If you want to specify the data type, you can use the following constructor functions:
 ```py
 x = str("Hello World")
 x = int(20)
