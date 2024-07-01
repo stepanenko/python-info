@@ -42,7 +42,7 @@ while count < 5:
 numbers = [1, 2, 3, 4, 5]
 squared_numbers = [x ** 2 for x in numbers]
 print(squared_numbers)
-# iterates over an iterable and apply an expression to each element to generate a new list.
+# iterates over an iterable and applies an expression to each element to generate a new list.
 
 ```
 
