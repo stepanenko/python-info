@@ -27,3 +27,7 @@ def search():
 
 if __name__ == '__main__':
     app.run(debug=True, port=5000)
+
+# To run it:
+# pip3 install flask --break-system-packages
+# python3 server.py
